@@ -1566,6 +1566,13 @@
       "path": "transfer/channel-1411/umpwr",
       "osmosis_main": false,
       "osmosis_frontier": true
+    },
+    {
+      "chain_name": "composable",
+      "base_denom": "ibc/6E41D54C24A4ACDDC1F2A8BF110867421C15E03CFD4A1B6B698570AC09A9EBF0",
+      "path": "transfer/channel-1279/transfer/channel-2/6",
+      "osmosis_main": false,
+      "osmosis_frontier": true
     }
   ]
 }
